@@ -5,6 +5,7 @@ IMC = peso / (altura/100)**2
 
 print(IMC)
 
+
 if IMC < 18.5:
     print(f'Seu IMC é de {IMC}, e é classificado como Magreza')
 
